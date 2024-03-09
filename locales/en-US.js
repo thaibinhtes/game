@@ -10,5 +10,6 @@ export default {
 	profile: "Profile",
 	footer: "Footer",
 	introFooter: "Horem ipsum dolor sit amet, consectetur adipiscing elit.Horem ipsum dolor sit amet, consectetur adipiscing elit.Horem ipsum dolor sit amet...Horem ipsum dolor sit amet, consectetur adipiscing elit.Horem ipsum dolor sit amet, consectetur adipiscing elit.Horem ipsum dolor sit amet...Horem ipsum dolor sit amet,",
-	contact: "Contact"
+	contact: "Contact",
+	notification: "MOVING TEXT MOVING TEXT MOVING TEXT"
 }

@@ -2,7 +2,7 @@
   <div class="app-game">
     <NuxtLayout>
       <NuxtLoadingIndicator color="rgb(var(--color-primary-500))" />
-      <NuxtPage/>
+      <NuxtPage />
     </NuxtLayout>
   </div>
 </template>

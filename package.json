@@ -12,8 +12,10 @@
   "dependencies": {
     "@nuxtjs/i18n": "^8.1.1",
     "nuxt": "^3.10.3",
+    "swiper": "^8.4.7",
     "vee-validate": "^4.5.8",
     "vue": "^3.4.19",
+    "vue-awesome-swiper": "^5.0.1",
     "vue-router": "^4.3.0",
     "wide-align": "^1.1.5"
   },

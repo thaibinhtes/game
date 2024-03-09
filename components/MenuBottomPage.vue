@@ -1,37 +1,35 @@
 <template>
   <div class="menu-bottom-page w-full">
     <ul class="menu-bottom-page__container">
-      <li class="menu-bottom-page__item text-yellow-100 --active">
-        <i class="icon-home"></i>
-        <span class="block w-full text-center uppercase">
-          {{ $nuxt.$i18n.t('home') }}
-        </span>
-      </li>
-      <li class="menu-bottom-page__item text-yellow-100">
-       <nuxt-link to="/promo">
-        <i class="icon-gift"></i>
-        <span class="block w-full text-center uppercase">
-          {{ $nuxt.$i18n.t('promo') }}
-        </span>
-       </nuxt-link>
-        
-      </li>
-      <li class="menu-bottom-page__item text-yellow-100">
-        <i class="icon-chat"></i>
-        <span class="block w-full text-center uppercase">
-          {{ $nuxt.$i18n.t('contactUs') }}
-        </span>
+      <li
+        v-for="(item, index) in menu"
+        :key="index"
+        :class="{ 'menu-bottom-page__item': true, 'text-yellow-100': true,
+        '--active': $route.path === item.link }"
+      >
+        <nuxt-link :to="item.link">
+          <i :class="item.icon"></i>
+          <span class="block w-full text-center uppercase">
+            {{ item.label }}
+          </span>
+        </nuxt-link>
       </li>
 
-      <li class="menu-bottom-page__item text-yellow-100">
-        <i class="icon-user-cricle"></i>
-        <span class="block w-full text-center uppercase">
-          {{ $nuxt.$i18n.t('profile') }}
-        </span>
-      </li>
     </ul>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    menu: {
+      type: Array,
+      default: () => ([])
+    }
+  }
+}
+</script>
+
 
 <style lang="scss">
   .menu-bottom-page {
