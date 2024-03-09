@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* button */
+
+.btn {
+  padding: 8px 21px;
+  font-weight: 700;
+  border-radius: 5px;
+}

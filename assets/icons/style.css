@@ -1,0 +1,634 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fdygh7');
+  src:  url('fonts/icomoon.eot?fdygh7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fdygh7') format('truetype'),
+    url('fonts/icomoon.woff?fdygh7') format('woff'),
+    url('fonts/icomoon.svg?fdygh7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-card-game .path1:before {
+  content: "\e900";
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path2:before {
+  content: "\e901";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path3:before {
+  content: "\e902";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path4:before {
+  content: "\e903";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path5:before {
+  content: "\e904";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path6:before {
+  content: "\e905";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path7:before {
+  content: "\e906";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path8:before {
+  content: "\e907";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path9:before {
+  content: "\e908";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path10:before {
+  content: "\e909";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path11:before {
+  content: "\e90a";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path12:before {
+  content: "\e90b";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path13:before {
+  content: "\e90c";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path14:before {
+  content: "\e90d";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path15:before {
+  content: "\e90e";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path16:before {
+  content: "\e90f";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-card-game .path17:before {
+  content: "\e910";
+  margin-left: -0.974609375em;
+  color: rgb(207, 180, 132);
+}
+.icon-card-game .path18:before {
+  content: "\e911";
+  margin-left: -0.974609375em;
+  color: rgb(0, 0, 0);
+}
+.icon-cashout:before {
+  content: "\e912";
+}
+.icon-chat:before {
+  content: "\e913";
+}
+.icon-eye:before {
+  content: "\e914";
+}
+.icon-facebook:before {
+  content: "\e915";
+}
+.icon-game-777 .path1:before {
+  content: "\e916";
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path2:before {
+  content: "\e917";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path3:before {
+  content: "\e918";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path4:before {
+  content: "\e919";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path5:before {
+  content: "\e91a";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path6:before {
+  content: "\e91b";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path7:before {
+  content: "\e91c";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path8:before {
+  content: "\e91d";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path9:before {
+  content: "\e91e";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path10:before {
+  content: "\e91f";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path11:before {
+  content: "\e920";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path12:before {
+  content: "\e921";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path13:before {
+  content: "\e922";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path14:before {
+  content: "\e923";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path15:before {
+  content: "\e924";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path16:before {
+  content: "\e925";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path17:before {
+  content: "\e926";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path18:before {
+  content: "\e927";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path19:before {
+  content: "\e928";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path20:before {
+  content: "\e929";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path21:before {
+  content: "\e92a";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path22:before {
+  content: "\e92b";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path23:before {
+  content: "\e92c";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path24:before {
+  content: "\e92d";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path25:before {
+  content: "\e92e";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path26:before {
+  content: "\e92f";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path27:before {
+  content: "\e930";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path28:before {
+  content: "\e931";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path29:before {
+  content: "\e932";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path30:before {
+  content: "\e933";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path31:before {
+  content: "\e934";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path32:before {
+  content: "\e935";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path33:before {
+  content: "\e936";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path34:before {
+  content: "\e937";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path35:before {
+  content: "\e938";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path36:before {
+  content: "\e939";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-777 .path37:before {
+  content: "\e93a";
+  margin-left: -1.29296875em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-777 .path38:before {
+  content: "\e93b";
+  margin-left: -1.29296875em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path1:before {
+  content: "\e93c";
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path2:before {
+  content: "\e93d";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path3:before {
+  content: "\e93e";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path4:before {
+  content: "\e93f";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path5:before {
+  content: "\e940";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path6:before {
+  content: "\e941";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path7:before {
+  content: "\e942";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path8:before {
+  content: "\e943";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path9:before {
+  content: "\e944";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path10:before {
+  content: "\e945";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path11:before {
+  content: "\e946";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path12:before {
+  content: "\e947";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path13:before {
+  content: "\e948";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path14:before {
+  content: "\e949";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path15:before {
+  content: "\e94a";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path16:before {
+  content: "\e94b";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path17:before {
+  content: "\e94c";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path18:before {
+  content: "\e94d";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-porker .path19:before {
+  content: "\e94e";
+  margin-left: -1.146484375em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-porker .path20:before {
+  content: "\e94f";
+  margin-left: -1.146484375em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-sport .path1:before {
+  content: "\e950";
+  color: rgb(207, 180, 132);
+}
+.icon-game-sport .path2:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-sport .path3:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-sport .path4:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-sport .path5:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-sport .path6:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-game-sport .path7:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(207, 180, 132);
+}
+.icon-game-sport .path8:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-gift:before {
+  content: "\e958";
+}
+.icon-hide-eye:before {
+  content: "\e959";
+}
+.icon-home:before {
+  content: "\e95a";
+}
+.icon-lgout:before {
+  content: "\e95b";
+}
+.icon-lock:before {
+  content: "\e95c";
+}
+.icon-lounds:before {
+  content: "\e95d";
+}
+.icon-mail:before {
+  content: "\e95e";
+}
+.icon-moeny:before {
+  content: "\e95f";
+}
+.icon-pen:before {
+  content: "\e960";
+}
+.icon-phone:before {
+  content: "\e961";
+}
+.icon-play .path1:before {
+  content: "\e962";
+  color: rgb(207, 180, 132);
+}
+.icon-play .path2:before {
+  content: "\e963";
+  margin-left: -1.1220703125em;
+  color: rgb(0, 0, 0);
+}
+.icon-play .path3:before {
+  content: "\e964";
+  margin-left: -1.1220703125em;
+  color: rgb(207, 180, 132);
+}
+.icon-play .path4:before {
+  content: "\e965";
+  margin-left: -1.1220703125em;
+  color: rgb(0, 0, 0);
+}
+.icon-play .path5:before {
+  content: "\e966";
+  margin-left: -1.1220703125em;
+  color: rgb(207, 180, 132);
+}
+.icon-play .path6:before {
+  content: "\e967";
+  margin-left: -1.1220703125em;
+  color: rgb(0, 0, 0);
+}
+.icon-play .path7:before {
+  content: "\e968";
+  margin-left: -1.1220703125em;
+  color: rgb(207, 180, 132);
+}
+.icon-play .path8:before {
+  content: "\e969";
+  margin-left: -1.1220703125em;
+  color: rgb(0, 0, 0);
+}
+.icon-require:before {
+  content: "\e96a";
+}
+.icon-shoot-fish .path1:before {
+  content: "\e96b";
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path2:before {
+  content: "\e96c";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-shoot-fish .path3:before {
+  content: "\e96d";
+  margin-left: -1.244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path4:before {
+  content: "\e96e";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-shoot-fish .path5:before {
+  content: "\e96f";
+  margin-left: -1.244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path6:before {
+  content: "\e970";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-shoot-fish .path7:before {
+  content: "\e971";
+  margin-left: -1.244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path8:before {
+  content: "\e972";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-shoot-fish .path9:before {
+  content: "\e973";
+  margin-left: -1.244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path10:before {
+  content: "\e974";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-shoot-fish .path11:before {
+  content: "\e975";
+  margin-left: -1.244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-shoot-fish .path12:before {
+  content: "\e976";
+  margin-left: -1.244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-trash:before {
+  content: "\e977";
+}
+.icon-user:before {
+  content: "\e978";
+}
+.icon-user-cricle:before {
+  content: "\e979";
+}
+.icon-user-game .path1:before {
+  content: "\e97a";
+  color: rgb(207, 180, 132);
+}
+.icon-user-game .path2:before {
+  content: "\e97b";
+  margin-left: -1.0244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-user-game .path3:before {
+  content: "\e97c";
+  margin-left: -1.0244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-user-game .path4:before {
+  content: "\e97d";
+  margin-left: -1.0244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-user-game .path5:before {
+  content: "\e97e";
+  margin-left: -1.0244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-user-game .path6:before {
+  content: "\e97f";
+  margin-left: -1.0244140625em;
+  color: rgb(0, 0, 0);
+}
+.icon-user-game .path7:before {
+  content: "\e980";
+  margin-left: -1.0244140625em;
+  color: rgb(207, 180, 132);
+}
+.icon-user-game .path8:before {
+  content: "\e981";
+  margin-left: -1.0244140625em;
+  color: rgb(0, 0, 0);
+}
